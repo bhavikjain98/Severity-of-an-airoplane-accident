@@ -1,4 +1,4 @@
-# Hackerearth-Challenge
+# Hackerearth ML Challenge
 
 Flying has been the go-to mode of travel for years now; it is time-saving, affordable, and extremely convenient. 
 According to the FAA, 2,781,971 passengers fly every day in the US, as in June 2019. 
